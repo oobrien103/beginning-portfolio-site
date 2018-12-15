@@ -7,7 +7,7 @@
 
 [build]
   base    = "site"
-  publish = "public"
+  publish = "site/public"
   command = "make"
 
 # Production context: All deploys to the main
